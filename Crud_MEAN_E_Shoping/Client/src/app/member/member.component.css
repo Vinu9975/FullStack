@@ -1,7 +1,0 @@
-tr:nth-child(even) {background: #CCC}
-tr{
-    border: 1px solid black;
-}
-Thead{
-    background-color: aquamarine;
-}
