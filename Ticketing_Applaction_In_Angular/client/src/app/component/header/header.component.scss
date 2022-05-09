@@ -1,0 +1,44 @@
+
+
+.form-control {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+    
+}
+
+.navbar {
+    background-color: #537EC5;
+}
+
+strong {
+    
+    font-size: 30px;
+}
+
+
+span {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.btn {
+    margin-right: 15px;
+    color: #fff;
+
+    &-signIn {
+        background-color: #700B97;
+    }
+
+    &-signUp {
+        background-color: #864879;
+    }
+
+    &-signOut {
+        background-color: #00ADB5;
+    }
+}
+

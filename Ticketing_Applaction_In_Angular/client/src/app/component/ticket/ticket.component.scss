@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+  }
+  th{
+    background: #4D4C7D;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+  }
+  tr{
+    background: #DDDDDD;
+  }
+  
+ 
+  .highlight{
+    background: #7395AE;
+  }
+  .filter{
+    text-align: center;
+    font-size: medium;
+    
+  }
+  mat-form-field{
+    width: 40%;
+  }
+  #AddDiv{
+    text-align: center;
+    
+  }
+  .Addbutton{
+    width: 20%;
+    height: fit-content;
+    font-size: medium;
+  }
+ 
