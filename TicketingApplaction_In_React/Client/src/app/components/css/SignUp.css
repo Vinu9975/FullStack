@@ -1,0 +1,46 @@
+.SignUp{
+    
+    display: flex;
+    margin-left: 20vh;
+    color: cornsilk;
+    height: auto;
+    
+    
+}
+.SignUp-ch{
+  margin-top: 30px;
+}
+
+ label{
+    font-weight:bold ;
+    display: flex;
+    margin-bottom:5px ;
+}
+
+.loginInput
+{
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height:1.428 ;
+  color: black;
+  background-color: #fff;
+  border:1px solid #ccc ;
+  border-radius: 4px;
+}
+.form-ctrl{
+    margin-bottom: 15px;
+ }
+
+ .MainS{
+    min-height: 100vh;
+    background: url('../../images/signup1.webp');
+    background-size: cover;
+    object-fit: fill;
+  }
+
+  .alertSign{
+    background-color: red;
+    width: 400px;
+  }
