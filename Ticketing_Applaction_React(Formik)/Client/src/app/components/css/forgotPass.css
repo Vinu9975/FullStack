@@ -1,0 +1,53 @@
+.Main{
+    min-height: 100vh;
+    background: url('../../images/1900880.webp');
+    background-size: cover;
+    object-fit: fill;
+  }
+ 
+.forgot{
+  
+    display: flex;
+    justify-content: center;
+    color: cornsilk;
+    height: auto;
+    width: auto;
+    min-height: 90vh;
+    
+    
+}
+.forgot-ch{
+  margin-top: 35vh;
+}
+
+.labelForgot{
+    font-weight:bold ;
+    display: flex;
+    margin-bottom:15px ;
+}
+
+.loginInputForgot
+{
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height:1.428 ;
+  color: black;
+  background-color: #fff;
+  border:1px solid #ccc ;
+  border-radius: 4px;
+}
+
+.btnforgot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading{
+    display: flex;
+    font-size: xx-large;
+    justify-content: space-around;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}

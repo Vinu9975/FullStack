@@ -1,0 +1,49 @@
+.login{
+  
+    display: flex;
+    justify-content: center;
+    color: cornsilk;
+    height: auto;
+    width: auto;
+    min-height: 90vh;
+    
+    
+}
+.login-ch{
+  margin-top: 30vh;
+}
+
+ label{
+    font-weight:bold ;
+    display: flex;
+    margin-bottom:5px ;
+    
+}
+
+.loginInput
+{
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height:1.428 ;
+  color: black;
+  background-color: #fff;
+  border:1px solid #ccc ;
+  border-radius: 4px;
+}
+.form-ctrl{
+    margin-bottom: 15px;
+ }
+ .alertlogin{
+  background-color: red;
+  width: 400px;
+}
+
+.Main{
+  min-height: 100vh;
+  background: url('../../images/1900880.webp');
+  background-size: cover;
+  object-fit: fill;
+}
+ 
